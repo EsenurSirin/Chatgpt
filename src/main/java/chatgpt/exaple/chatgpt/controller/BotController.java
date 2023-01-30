@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/api/v1/bot")
 @RequiredArgsConstructor
 public class BotController {
-
     private final BotService botService;
 
     @PostMapping("/send")

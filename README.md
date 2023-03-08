@@ -1,1 +1,1 @@
-# Chatpgt JAVA
+# Chatgpt JAVA
